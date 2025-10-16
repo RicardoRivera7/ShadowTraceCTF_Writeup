@@ -1,6 +1,9 @@
 # ShadowTrace CTF Walkthrough
 A Tryhack me CTF writeup for the ShadowTrace room
 
+
+Room Link: https://tryhackme.com/room/shadowtrace
+
 <h2>Part One: File Analysis</h2>
 <br/>
   
