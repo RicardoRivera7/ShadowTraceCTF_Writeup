@@ -105,7 +105,7 @@ Looks like we were right, it was in decimal format and we found our malicious UR
 <br/>
 <br/>
 
-THe final flag asks for the name of the file that was saved by the chrome.exe alert <br/>
+The final flag asks for the name of the file that was saved by the chrome.exe alert <br/>
 If we inspect the command we can see a download section followed by a txt file <br/>
 Looks like it was called test.txt and we have our last flag!
 <img src="https://i.imgur.com/K7IfQpZ.png" height="80%" width="80%" alt="Pickle Rick"/>
