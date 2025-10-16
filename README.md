@@ -1,7 +1,7 @@
 # ShadowTrace CTF Walkthrough
 A Tryhack me CTF writeup for the ShadowTrace room
 
-Part One: File Analysis <h1/>
+<h2>Part One: File Analysis</h2>
 <br/>
   
 <p align="left">
@@ -60,6 +60,14 @@ Looks like we got our flag! <br/>
 <br/>
 
 The sixth flag asks for a library related to socket communication <br/>
+Let's gp back to Pestudio <br/>
+Select the libraries (flag > 3) section <br/>
+There's a couple here, so if we take a look at the descriptions then we can find one that says "windows Socket library" <br/>
+This seems like what we're looking for so click on the line and we can see the library this belonngs to is WS2_32.dll our final flag for this section! <br/>
+<img src="https://i.imgur.com/D5BteWt.png" height="80%" width="80%" alt="Pickle Rick"/>
+<br/>
+<br/>
 
-
+<h2>Part Two: Alert Analysis</h2>
+<br/>
 
