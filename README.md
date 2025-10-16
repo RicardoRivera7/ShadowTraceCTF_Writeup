@@ -1,8 +1,7 @@
 # ShadowTrace CTF Walkthrough
 A Tryhack me CTF writeup for the ShadowTrace room
 
-<h1> Part One: File Analysis <h1/>
-<br/>
+Part One: File Analysis <h1/>
 <br/>
   
 <p align="left">
